@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom right, red, yellow);
+  background-image: linear-gradient(to bottom right, red, #777777);
 }
 @font-face {
     font-family: Futura;
