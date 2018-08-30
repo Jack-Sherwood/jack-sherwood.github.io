@@ -1,3 +1,13 @@
 body {
   background-image: linear-gradient(to bottom right, red, yellow);
 }
+@font-face {
+    font-family: Futura;
+    src: url("futura.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Futura;
+    font-weight: bold;
+    src: url("futura.otf") format("opentype");
+}
