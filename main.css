@@ -3,11 +3,11 @@ body {
 }
 @font-face {
     font-family: Futura;
-    src: url("futura.otf") format("opentype");
+    src: url("jack-sherwood.github.io/FuturaPTMedium.otf ") format("opentype");
 }
 
 @font-face {
     font-family: Futura;
     font-weight: bold;
-    src: url("futura.otf") format("opentype");
+    src: url("jack-sherwood.github.io/FuturaPTMedium.otf") format("opentype");
 }
