@@ -36,3 +36,7 @@ p {
     color: black;
     text-align: center;
 }
+.imageborder {
+    position: fixed;
+    color: black;
+}
